@@ -1,0 +1,33 @@
+parser/node_modules
+parser/build
+
+# Logs
+thompcal/logs
+thompcal/*.log
+thompcal/npm-debug.log*
+thompcal/yarn-debug.log*
+thompcal/yarn-error.log*
+thompcal/pnpm-debug.log*
+thompcal/lerna-debug.log*
+
+thompcal/node_modules
+thompcal/dist
+thompcal/dist-ssr
+thompcal/*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# In the real version I ignore the images,
+# since they take up too much space
+
+# thompcal/images
+tidbits/venv

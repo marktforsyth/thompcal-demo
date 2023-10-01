@@ -1,0 +1,12 @@
+{
+  "name": "thompcal-parser",
+  "description": "Parses data from the spreadsheet to the web app.",
+  "author": "Mark Forsyth <marktforsyth@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node build/main"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.15"
+  }
+}

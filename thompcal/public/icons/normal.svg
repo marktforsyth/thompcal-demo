@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="..\..\..\..\programming\projects\thompcal\thompcal\public\icons\192.png"
+   inkscape:export-xdpi="24.383999"
+   inkscape:export-ydpi="24.383999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.50646226"
+     inkscape:cx="244.83562"
+     inkscape:cy="390.94719"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6219" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Maskable"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <rect
+       style="fill:#202124;fill-opacity:1;stroke-width:1.2"
+       id="rect240"
+       width="200"
+       height="200"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.688471"
+       id="rect3475"
+       width="22.742462"
+       height="88.636452"
+       x="88.628769"
+       y="68.668816"
+       ry="9.4840755" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.688471"
+       id="rect3475-2"
+       width="22.742462"
+       height="88.636452"
+       x="57.297588"
+       y="-144.31822"
+       ry="9.4840755"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:label="Round"
+     inkscape:groupmode="layer"
+     id="g6219">
+    <rect
+       style="fill:#202124;fill-opacity:1;stroke-width:1.2"
+       id="rect6205"
+       width="200"
+       height="200"
+       x="0"
+       y="0"
+       ry="0" />
+    <rect
+       style="fill:#acabae;fill-opacity:1;stroke-width:0.688471"
+       id="rect6215"
+       width="22.742462"
+       height="88.636452"
+       x="88.628769"
+       y="68.668816"
+       ry="9.4840755" />
+    <rect
+       style="fill:#acabae;fill-opacity:1;stroke-width:0.688471"
+       id="rect6217"
+       width="22.742462"
+       height="88.636452"
+       x="57.297588"
+       y="-144.31822"
+       ry="9.4840755"
+       transform="rotate(90)" />
+  </g>
+</svg>
